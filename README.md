@@ -13,11 +13,8 @@ An AI-powered native Android application that detects diseases in rice leaves us
 
 - 🔍 Detects multiple rice leaf diseases using **DenseNet169** and **InceptionV3** models
 - 🧠 Ensemble model with meta-learning for improved accuracy
-- 🌙 Dark mode support
 - ✂️ Image cropping & adjustment before prediction
-- 🌐 Multi-language support for accessibility
-- 📤 Share detection results easily
-- 📈 Displays confidence score and result summary
+- 📈 Displays result summary
 
 ---
 
@@ -50,9 +47,11 @@ An AI-powered native Android application that detects diseases in rice leaves us
 ## 🖼️ Screenshots
 
 > 📌 *Add screenshots here after capturing them from the emulator/device.*
-> ![WhatsApp Image 2025-04-08 at 9 42 17 AM](https://github.com/user-attachments/assets/986a95ae-717b-46f6-89f2-d131c6e6f47c)
+> ![WhatsApp Image 2025-04-08 at 9 11 39 AM](https://github.com/user-attachments/assets/258759b4-ce19-4d3f-a8e7-5d28d497a672)
 > ![WhatsApp Image 2025-04-08 at 9 42 17 AM](https://github.com/user-attachments/assets/2f699e54-503f-4719-9cfe-0b70bafee17d)
-> ![WhatsApp Image 2025-04-08 at 9 42 17 AM](https://github.com/user-attachments/assets/661dea96-2e1d-4912-939f-246536a3fc4e)
+> ![WhatsApp Image 2025-04-08 at 9 11 37 AM](https://github.com/user-attachments/assets/d8fc9077-c028-43e1-9b45-8549727655dc)
+
+
 
 
 
