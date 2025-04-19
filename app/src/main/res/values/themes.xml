@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Rice.DarkGreen" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#2C6B2F</item> <!-- Deep Green -->
+        <item name="colorPrimaryDark">#1B5E20</item> <!-- Darker Green -->
+        <item name="colorAccent">#81C784</item> <!-- Light Green Accent -->
+        <item name="android:windowBackground">#1B1B1B</item> <!-- Dark Background -->
+        <item name="android:textColorPrimary">#000000</item> <!-- White Text -->
+    </style>
+</resources>
+

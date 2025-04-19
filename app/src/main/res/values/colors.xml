@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <!-- Primary colors -->
+        <color name="colorPrimary">#4CAF50</color> <!-- Green -->
+        <color name="colorPrimaryDark">#388E3C</color> <!-- Dark Green -->
+        <color name="colorAccent">#FF9800</color> <!-- Orange -->
+
+        <!-- Background colors -->
+        <color name="backgroundColor">#45E04B</color> <!-- Light Gray -->
+        <color name="cardBackground">#FFFFFF</color> <!-- White -->
+
+        <!-- Text colors -->
+        <color name="textColorPrimary">#000000</color> <!-- Dark Gray -->
+        <color name="textColorSecondary">#000000</color> <!-- Light Gray -->
+
+        <!-- Button colors -->
+        <color name="buttonColor">#F40758</color> <!-- Orange -->
+        <color name="buttonTextColor">#000000</color> <!-- White -->
+
+        <!-- Footer -->
+        <color name="footerTextColor">#757575</color> <!-- Gray -->
+
+
+
+</resources>

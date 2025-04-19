@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RICE VISION </string>
+    <string name="rice_disease_detection">Rice Disease Detection</string>
+    <string name="rice_leaf_disease_detection">RICE LEAF DISEASE DETECTION 🌾</string>
+
+    <string name="output">OUTPUT</string>
+
+</resources>
